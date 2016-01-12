@@ -1,0 +1,10 @@
+== README
+
+to add views either put it in an existing controller or creat a new controller with "rails g controller [new_controller]"
+
+then add to routes file "get '/page', to: 'controller#view'"
+
+to run server: rails s
+
+
+== CHRISSING
